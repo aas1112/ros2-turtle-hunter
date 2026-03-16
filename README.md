@@ -2,7 +2,7 @@
 
 An autonomous turtle-catching simulation built with ROS 2 and Turtlesim.
 
-!
+![Turtle Hunter Demo](demo.gif)
 
 ## 📌 Project Overview
 
